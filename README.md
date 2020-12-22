@@ -1,0 +1,1 @@
+# Covid-19-and-Pneumonia-detection-from-X-Ray
