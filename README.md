@@ -1,5 +1,4 @@
 # Covid-19-and-Pneumonia-detection-from-X-Ray
-## POJECT TITLE: COVID19 DETECTION USING X-RAY
 
 ## HOW CHEST X-RAY USED TO DETECT COVID19?
 
