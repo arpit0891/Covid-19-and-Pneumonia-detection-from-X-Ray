@@ -17,7 +17,7 @@ HOW OUR MODEL WORKS?
 Our model works on Deep Neural Networks in which there are different layers in each level, with dropout rate of 0.5 and we applied Softmax in the last dense layer of the network, and the Rectified Linear Unit(ReLu) is the rest others.
 Model: "sequential_1"
 _________________________________________________________________
-Layer (type)                 Output Shape              Param #   
+Layer (type)                 Output Shape              Params
 =================================================================
 conv2d_1 (Conv2D)            (None, 222, 222, 64)      1792      
 _________________________________________________________________
