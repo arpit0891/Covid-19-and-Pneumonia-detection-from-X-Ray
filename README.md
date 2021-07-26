@@ -1,5 +1,12 @@
 # Covid-19-and-Pneumonia-detection-from-X-Ray
 
+**MEET THE TEAM**
+
+VARUN SINGH
+
+ARPIT G. MISHRA
+
+PRAKHAR SINGH
 ## HOW CHEST X-RAY USED TO DETECT COVID19?
 
 According to study, published in the May 14, 2020 issue of Radiology, identifies which patients may need to be hospitalized and intubated based on the severity of coronavirus patterns in the lungs seen in the X-rays, using a unique scoring system to evaluate severity. The results could help physicians more quickly identify, triage, and aggressively treat these high-risk patients.
@@ -14,11 +21,19 @@ Bottom image: Chest radiograph in a 32-year-old overweight (BMI=30) COVID-19 pos
 ## HOW OUR MODEL WORKS?
 Our model works on Deep Neural Networks in which there are different layers in each level, with dropout rate of 0.5 and we applied Softmax in the last dense layer of the network, and the Rectified Linear Unit(ReLu) is the rest others.
 Model: "sequential_1"
+![ModelC19](https://user-images.githubusercontent.com/42835173/127045469-0447580f-75d2-463a-9cdd-52e9c4653e7f.png)
+Total params: 201,870,340
 
+Trainable params: 201,870,340
+
+Non-trainable params: 0
 Our model is basically predicting the results using Image processing with help of deep learning instead of using a 6 factor score due to which accuracy is about 80%, in image processing the model is trained on 201,870,340 parameters, in which it checks the opacity in different parts of the lungs.
 Higher the opacity higher is the chance of being infected by COVID19.
 
 IMPLEMENTATION OF OUR MODEL ON FLASK APP
+![image](https://user-images.githubusercontent.com/42835173/127045244-7aad8606-e3f7-4de8-8242-f9a74a46e8b2.png)
+
+![image](https://user-images.githubusercontent.com/42835173/127045203-09b62686-11a9-4ff6-b262-de59ef03d892.png)
 
 
 ## PACKAGES USED IN THE PROJECT:
