@@ -8,6 +8,8 @@ ARPIT G. MISHRA
 
 PRAKHAR SINGH
 ## HOW CHEST X-RAY USED TO DETECT COVID19?
+![image](https://user-images.githubusercontent.com/42835173/127059617-e31db428-4620-4780-90f9-540cf124cf1b.png)
+
 
 According to study, published in the May 14, 2020 issue of Radiology, identifies which patients may need to be hospitalized and intubated based on the severity of coronavirus patterns in the lungs seen in the X-rays, using a unique scoring system to evaluate severity. The results could help physicians more quickly identify, triage, and aggressively treat these high-risk patients.
  
@@ -34,9 +36,6 @@ Higher the opacity higher is the chance of being infected by COVID19.
 
 IMPLEMENTATION OF OUR MODEL ON FLASK APP
 
-![image](https://user-images.githubusercontent.com/42835173/127045244-7aad8606-e3f7-4de8-8242-f9a74a46e8b2.png)
-
-![image](https://user-images.githubusercontent.com/42835173/127045203-09b62686-11a9-4ff6-b262-de59ef03d892.png)
 
 
 ## PACKAGES USED IN THE PROJECT:
