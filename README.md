@@ -24,7 +24,7 @@ Bottom image: Chest radiograph in a 32-year-old overweight (BMI=30) COVID-19 pos
 Our model works on Deep Neural Networks in which there are different layers in each level, with dropout rate of 0.5 and we applied Softmax in the last dense layer of the network, and the Rectified Linear Unit(ReLu) is the rest others.
 Model: "sequential_1"
 
-![ModelC19](https://user-images.githubusercontent.com/42835173/127045469-0447580f-75d2-463a-9cdd-52e9c4653e7f.png)
+![image](https://user-images.githubusercontent.com/42835173/127106087-55373b96-c169-470b-984d-c87b8e7f3134.png)
 
 Total params: 201,870,340
 
