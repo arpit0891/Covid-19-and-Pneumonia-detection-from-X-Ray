@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <link href="static/css/style.css" rel="stylesheet">
+    </head>
+    <body> 
+        <header>
+            <div class="header">
+                <br>
+                <a href="#">About me</a>   
+              <a href="#">Skills</a>   
+              <a href="#">Projects</a>   
+              <a href="#">Achievements</a> 
+              <a href="#">Contact me</a>  
+            </div>
+        </header> <br><br><br> 
+        <center>
+            <div class='cont'>
+                <h2>COVID19 PREDICTION USING X_RAY IMAGES</h2>
+            </div>
+            
+
+        <form method="POST" action="{{url_for('home')}}" enctype="multipart/form-data">
+            <input type="file" name='image' class='btn'><br><br><br>
+            <input type="submit" class='btn'>
+        </form>
+
+    </center>
+
+    </body>
+</html>
